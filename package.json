@@ -1,0 +1,25 @@
+{
+  "name": "project_encouragement_jar",
+  "version": "1.0.0",
+  "description": "Simple website to hold larger notes and messages that cannot fit on a card, uses a lander page with a submit box that loads content based on token provided from serverless function.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "netlify build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silas-N-Schlax/project_encouragement_jar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Silas-N-Schlax/project_encouragement_jar/issues"
+  },
+  "homepage": "https://github.com/Silas-N-Schlax/project_encouragement_jar#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
